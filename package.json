@@ -1,0 +1,14 @@
+{
+  "name": "natural-language-calculator",
+  "version": "1.0.0",
+  "description": "A web-based calculator that processes mathematical queries in plain English",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "fast-check": "^3.15.0"
+  }
+}
